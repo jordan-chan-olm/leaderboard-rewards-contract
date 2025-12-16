@@ -2,6 +2,9 @@
 
 A gas-optimized ERC-20 reward vault with EIP-712 signature-based claims. Sponsors fund campaigns, the backend authorizes payouts via signatures, and users claim their rewards trustlessly.
 
+## Addresses
+- Contract Address: 0x4877aa457f76d1b2352e736b8bdc84d9eb4d4d9c
+
 ## Overview
 
 ```
